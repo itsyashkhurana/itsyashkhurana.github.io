@@ -1,5 +1,3 @@
-# itsyashkhurana.github.io
-
 
 <h1 align="center">Hi 👋, I'm Yash Khurana</h1>
 <h3 align="center"> Eager to Contribute to Innovative Projects  </h3>
