@@ -11,6 +11,15 @@
 <a href="https://www.linkedin.com/in/yk4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yk4/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/its.yash.khurana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/itsyashkhurana/" height="30" width="40" /></a>
 
+<h2 align="left">Dsa Best Problem  :</h2>
+<h3 align="left">String Problems:</h3>
+
+<h4 align="left"> Smallest distinct window : https://www.geeksforgeeks.org/problems/smallest-distant-window3132/1?page=1&difficulty</h4>
+<h4 align="left">  Longest substring without repeating characters:https://leetcode.com/problems/longest-substring-without-repeating-characters/</h4>
+
+
+
+
 
 
 
